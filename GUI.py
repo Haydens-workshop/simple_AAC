@@ -54,7 +54,7 @@ root.geometry(f"{window_width}x{window_height}")
 min_button_width = 75
 min_button_height = 50
 
-# Determine the base directory for the script
+
 base_dir = os.path.dirname(os.path.realpath(__file__))
 
 ###### Paths relative to the base directory #####
